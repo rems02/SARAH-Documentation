@@ -1,4 +1,4 @@
-# [S.A.R.A.H.](http://encausse.net/s-a-r-a-h)
+# [S.A.R.A.H..](http://encausse.net/s-a-r-a-h)
 
 The document is available in [the wiki](https://github.com/JpEncausse/SARAH-Documentation/wiki).
 
